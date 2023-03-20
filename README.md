@@ -11,6 +11,6 @@
 This challenge starts with using BeautifulSoup to scrape data from two sites, including [Mars News](https://static.bc-edx.com/data/web/mars_news/index.html) and [Mars Weather](https://static.bc-edx.com/data/web/mars_facts/temperature.html). After web scraping, the data is stored into json file and pandas dataframe for data analysis. In Mars Weather, the weather data is analysed and visualized using matplotlib.
 
 ---
-<b>Score for this assessment:</b> has no been scored yet <br />
+<b>Score for this assessment:</b> 100 <br />
 <b>References:</b><br />
 The news article titles, summaries, dates, and images were scraped from [NASA's Mars NewsLinks](https://mars.nasa.gov/) website in November 2022
